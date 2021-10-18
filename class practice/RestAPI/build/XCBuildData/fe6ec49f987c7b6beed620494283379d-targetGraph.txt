@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+Alamofire in Pods
+SwiftSpinner in Pods
+SwiftyJSON in Pods
+Pods-RestAPI in Pods, depends on:
+Alamofire in Pods (explicit)
+SwiftSpinner in Pods (explicit)
+SwiftyJSON in Pods (explicit)
